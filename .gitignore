@@ -42,3 +42,22 @@
 /DotNet/WpfDemo/.vs
 /DotNet/WpfDemo/WpfDemo/bin/Debug/net6.0-windows
 /DotNet/WpfDemo/WpfDemo/obj
+/DotNet/AzureTesti/AzureWebSovellus/.vs
+/DotNet/AzureTesti/AzureWebSovellus/AzureWebSovellus/bin
+/DotNet/AzureTesti/AzureWebSovellus/AzureWebSovellus/obj
+/DotNet/AzureTesti/AzureWebSovellus/AzureWebSovellus/Properties/PublishProfiles
+/DotNet/AzureTesti/AzureWebSovellus/AzureWebSovellus/Properties/ServiceDependencies/codeacademyturku - Web Deploy
+/DotNet/CosmosDB/.vs
+/DotNet/CosmosDB/CosmosGettingStartedTutorial/bin/Debug/net6.0
+/DotNet/CosmosDB/CosmosGettingStartedTutorial/obj
+/DotNet/WebSovellusDocker/.vs
+/DotNet/WebSovellusDocker/WebSovellusDocker/bin/Debug/net6.0
+/DotNet/WebSovellusDocker/WebSovellusDocker/obj
+/DotNet/WebTietokanta/WebTietokanta/bin/Release/net6.0
+/DotNet/WebTietokanta/WebTietokanta/Properties/PublishProfiles
+/DotNet/Yksikkötestaus/.vs
+/DotNet/Yksikkötestaus/Yksikkötestaus/bin/Debug/net6.0
+/DotNet/Yksikkötestaus/Yksikkötestaus/obj
+/DotNet/Yksikkötestaus/YksikkötestausTests/bin/Debug/net6.0
+/DotNet/Yksikkötestaus/YksikkötestausTests/obj
+/JavaScript/cosmosdb/node_modules
