@@ -1,0 +1,16 @@
+[
+  {
+    "personName": "Jaska Jokunen",
+    "salary": {
+      "monthly": 2828.25
+    },
+    "hiredate": null
+  },
+  {
+    "personName": "Teppo Testaaja",
+    "salary": {
+      "monthly": 3846.42
+    },
+    "hiredate": "1.7.2019"
+  }
+]
