@@ -61,3 +61,7 @@
 /DotNet/Yksikkötestaus/YksikkötestausTests/bin/Debug/net6.0
 /DotNet/Yksikkötestaus/YksikkötestausTests/obj
 /JavaScript/cosmosdb/node_modules
+/Angular/my-app/.vscode
+/DotNet/PalkkatiedotXmlJsonKonversio/.vs
+/DotNet/PalkkatiedotXmlJsonKonversio/PalkkatiedotXmlJsonKonversio/bin/Debug/net6.0
+/DotNet/PalkkatiedotXmlJsonKonversio/PalkkatiedotXmlJsonKonversio/obj
