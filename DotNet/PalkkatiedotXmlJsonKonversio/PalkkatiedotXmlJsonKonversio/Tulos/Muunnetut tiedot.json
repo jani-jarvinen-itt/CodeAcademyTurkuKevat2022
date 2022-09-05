@@ -1,0 +1,37 @@
+[
+  {
+    "personName": "Jaska Jokunen",
+    "salary": {
+      "monthly": 2828.25
+    },
+    "hiredate": null
+  },
+  {
+    "personName": "Erkki Esimies",
+    "salary": {
+      "monthly": 5656.5
+    },
+    "hiredate": null
+  },
+  {
+    "personName": "Teppo Testaaja",
+    "salary": {
+      "monthly": 3846.42
+    },
+    "hiredate": "1.7.2019"
+  },
+  {
+    "personName": "Niilo Nikkari",
+    "salary": {
+      "monthly": 3620.16
+    },
+    "hiredate": null
+  },
+  {
+    "personName": "Maiju Mainio",
+    "salary": {
+      "monthly": 4638.33
+    },
+    "hiredate": "15.2.2020"
+  }
+]
